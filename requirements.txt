@@ -1,0 +1,7 @@
+transformers
+pandas
+torch
+scikit-learn
+fastapi
+numpy
+os
